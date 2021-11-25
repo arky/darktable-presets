@@ -1,0 +1,16 @@
+--2021-11-25 12:54:59--  https://discuss.pixls.us/uploads/short-url/vOYhMIwJH8VwWLngdIPK3tvzM8S.dtpreset
+Resolving discuss.pixls.us (discuss.pixls.us)... 135.181.1.149, 2a01:4f9:4b:4e6a::2
+Connecting to discuss.pixls.us (discuss.pixls.us)|135.181.1.149|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: //pixls-discuss.s3.dualstack.us-east-1.amazonaws.com/original/3X/d/f/df06723b4ee7311ee62fd51b1bcc54787efefdde.dtpreset [following]
+--2021-11-25 12:55:00--  https://pixls-discuss.s3.dualstack.us-east-1.amazonaws.com/original/3X/d/f/df06723b4ee7311ee62fd51b1bcc54787efefdde.dtpreset
+Resolving pixls-discuss.s3.dualstack.us-east-1.amazonaws.com (pixls-discuss.s3.dualstack.us-east-1.amazonaws.com)... 52.217.142.42, 2600:1fa0:808f:ea81:34d9:879a::
+Connecting to pixls-discuss.s3.dualstack.us-east-1.amazonaws.com (pixls-discuss.s3.dualstack.us-east-1.amazonaws.com)|52.217.142.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1101 (1.1K) []
+Saving to: ‘vOYhMIwJH8VwWLngdIPK3tvzM8S.dtpreset’
+
+     0K .                                                     100% 42.4M=0s
+
+2021-11-25 12:55:01 (42.4 MB/s) - ‘vOYhMIwJH8VwWLngdIPK3tvzM8S.dtpreset’ saved [1101/1101]
+
